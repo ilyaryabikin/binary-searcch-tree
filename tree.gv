@@ -1,0 +1,33 @@
+digraph BinarySearchTree {
+	"3" -> "2";
+	"3"  -> "45";
+	"2" -> "1";
+	"null54" [shape=point];
+	"2" -> "null54";
+	"null55" [shape=point];
+	"1" -> "null55";
+	"null56" [shape=point];
+	"1" -> "null56";
+	"45" -> "30";
+	"45"  -> "78";
+	"30" -> "28";
+	"30"  -> "37";
+	"null57" [shape=point];
+	"28" -> "null57";
+	"null58" [shape=point];
+	"28" -> "null58";
+	"null59" [shape=point];
+	"37" -> "null59";
+	"null60" [shape=point];
+	"37" -> "null60";
+	"78" -> "67";
+	"78"  -> "123";
+	"null61" [shape=point];
+	"67" -> "null61";
+	"null62" [shape=point];
+	"67" -> "null62";
+	"null63" [shape=point];
+	"123" -> "null63";
+	"null64" [shape=point];
+	"123" -> "null64";
+}
